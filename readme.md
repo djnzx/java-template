@@ -30,3 +30,7 @@ mvn spotless:apply
 mvn spotless:check
 ```
 
+
+### Contribution workflow
+
+Make changes in a separate branch and submit them through a pull request.
