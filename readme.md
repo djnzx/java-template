@@ -30,3 +30,7 @@ mvn spotless:apply
 mvn spotless:check
 ```
 
+
+## Вимоги
+
+Для збірки потрібні JDK 25 і Maven.
